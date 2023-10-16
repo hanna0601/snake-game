@@ -24,6 +24,6 @@
 ## Test:
 
 <img width="223" alt="image" src="https://github.com/zeyuzhang516/snake-game/assets/113128518/2f8a668d-853a-4cd3-a6f6-471934a15284">
-<img width="232" alt="image" src="https://github.com/zeyuzhang516/snake-game/assets/113128518/df58221c-408f-4775-91d2-92164c357c9c">
+
 <img width="395" alt="image" src="https://github.com/zeyuzhang516/snake-game/assets/113128518/5d4533ba-d0e2-42d2-a8b1-6e8eba28f761">
 
